@@ -1,0 +1,1087 @@
+#uwu
+{
+
+    background-image: linear-gradient(to right top, #f2afaf, #fcbea7, #fdd0a2, #f4e4a7, #e4f8b7);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+
+}
+#action
+{
+    background-image: linear-gradient(to right top, #370524, #6a0033, #a00036, #d4002b, #ff0000);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+#romance
+{
+    background-image: linear-gradient(to right top, #4c2362, #712a88, #9c2cae, #cb25d2, #ff00f4);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+#sci-fi{
+    background-image: linear-gradient(to right top, #640016, #860030, #9d0061, #9600a9, #1600ff);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+#horror
+{
+    background-image: linear-gradient(to right top, #000000, #1e1e1e, #363636, #505050, #6b6b6b);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+#mystery
+{
+    background-image: linear-gradient(to right top, #a30000, #c74d00, #e38400, #f6bb00, #fff300);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+#comedy{
+    background-image: linear-gradient(to right top, #66183f, #ac333d, #d96c1c, #dfb300, #b0ff00);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+#uu
+{
+   background-clip: text;
+    background-image: linear-gradient(to right top, #ffffff, #dadada, #b5b5b5, #929292, #717171);
+    color: transparent;
+    font-size: xxx-large;
+    font-weight: bolder;
+    font-family: Jokerman;
+    text-align: center;
+    margin: 1px;
+}
+#uuu
+{
+    background-clip: text;
+    background-image: linear-gradient(to right top, #ffffff, #dadada, #b5b5b5, #929292, #717171);
+    color: transparent;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: Jokerman;
+    text-align: left;
+}
+#box
+{
+    margin: 10px auto;
+    width: 100%;
+    height:50px;
+   float: left;
+    border: 10px red;
+    padding: white 10px;
+}
+
+hr{
+    padding: 2px;
+    background-color: black;
+
+}
+#buttong {
+    font-weight: bold;
+    color: white;
+    border-radius: 2rem;
+    cursor: pointer;
+    width: 100.02px;
+    height: 50.66px;
+    border: none;
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#buttong .span-mother {
+    display: flex;
+    overflow: hidden;
+}
+
+#buttong:hover .span-mother {
+    position: absolute;
+}
+
+#buttong:hover .span-mother span {
+    transform: translateY(1.2em);
+}
+
+#buttong .span-mother span:nth-child(1) {
+    transition: 0.2s;
+}
+
+#buttong .span-mother span:nth-child(2) {
+    transition: 0.3s;
+}
+
+#buttong .span-mother span:nth-child(3) {
+    transition: 0.4s;
+}
+
+#buttong .span-mother span:nth-child(4) {
+    transition: 0.5s;
+}
+
+#buttong .span-mother span:nth-child(5) {
+    transition: 0.6s;
+}
+
+#buttong .span-mother span:nth-child(6) {
+    transition: 0.7s;
+}
+
+#buttong .span-mother2 {
+    display: flex;
+    position: absolute;
+    overflow: hidden;
+}
+
+#buttong .span-mother2 span {
+    transform: translateY(-1.2em);
+}
+
+#buttong:hover .span-mother2 span {
+    transform: translateY(0);
+}
+
+#buttong .span-mother2 span {
+    transition: 0.2s;
+}
+
+#buttong .span-mother2 span:nth-child(2) {
+    transition: 0.3s;
+}
+
+#buttong .span-mother2 span:nth-child(3) {
+    transition: 0.4s;
+}
+
+#buttong .span-mother2 span:nth-child(4) {
+    transition: 0.5s;
+}
+
+#buttong .span-mother2 span:nth-child(5) {
+    transition: 0.6s;
+}
+
+#buttong .span-mother2 span:nth-child(6) {
+    transition: 0.7s;
+}
+#bt1 {
+    font-weight: bold;
+    color:white;
+    border-radius: 2rem;
+    cursor: pointer;
+    width: 100.02px;
+    height: 50.66px;
+    border: none;
+    background-image: linear-gradient(to right top, #370524, #6a0033, #a00036, #d4002b, #ff0000);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#bt1 .span-mother {
+    display: flex;
+    overflow: hidden;
+}
+
+#bt1:hover .span-mother {
+    position: absolute;
+}
+
+#bt1:hover .span-mother span {
+    transform: translateY(1.2em);
+}
+
+#bt1 .span-mother span:nth-child(1) {
+    transition: 0.2s;
+}
+
+#bt1 .span-mother span:nth-child(2) {
+    transition: 0.3s;
+}
+
+#bt1 .span-mother span:nth-child(3) {
+    transition: 0.4s;
+}
+
+#bt1 .span-mother span:nth-child(4) {
+    transition: 0.5s;
+}
+
+#bt1 .span-mother span:nth-child(5) {
+    transition: 0.6s;
+}
+
+#bt1 .span-mother span:nth-child(6) {
+    transition: 0.7s;
+}
+
+#bt1 .span-mother2 {
+    display: flex;
+    position: absolute;
+    overflow: hidden;
+}
+
+#bt1 .span-mother2 span {
+    transform: translateY(-1.2em);
+}
+
+#bt1:hover .span-mother2 span {
+    transform: translateY(0);
+}
+
+#bt1 .span-mother2 span {
+    transition: 0.2s;
+}
+
+#bt1 .span-mother2 span:nth-child(2) {
+    transition: 0.3s;
+}
+
+#bt1 .span-mother2 span:nth-child(3) {
+    transition: 0.4s;
+}
+
+#bt1 .span-mother2 span:nth-child(4) {
+    transition: 0.5s;
+}
+
+#bt1 .span-mother2 span:nth-child(5) {
+    transition: 0.6s;
+}
+
+#bt1 .span-mother2 span:nth-child(6) {
+    transition: 0.7s;
+}
+
+
+
+#bt2 {
+    font-weight: bold;
+    color: white;
+    border-radius: 2rem;
+    cursor: pointer;
+    width: 100.02px;
+    height: 50.66px;
+    border: none;
+    background-image: linear-gradient(to right top, #4c2362, #712a88, #9c2cae, #cb25d2, #ff00f4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#bt2 .span-mother {
+    display: flex;
+    overflow: hidden;
+}
+
+#bt2:hover .span-mother {
+    position: absolute;
+}
+
+#bt2:hover .span-mother span {
+    transform: translateY(1.2em);
+}
+
+#bt2 .span-mother span:nth-child(1) {
+    transition: 0.2s;
+}
+
+#bt2 .span-mother span:nth-child(2) {
+    transition: 0.3s;
+}
+
+#bt2 .span-mother span:nth-child(3) {
+    transition: 0.4s;
+}
+
+#bt2 .span-mother span:nth-child(4) {
+    transition: 0.5s;
+}
+
+#bt2 .span-mother span:nth-child(5) {
+    transition: 0.6s;
+}
+
+#bt2 .span-mother span:nth-child(6) {
+    transition: 0.7s;
+}
+#bt2 .span-mother span:nth-child(7) {
+    transition: 0.8s;
+}
+
+#bt2 .span-mother2 {
+    display: flex;
+    position: absolute;
+    overflow: hidden;
+}
+
+#bt2 .span-mother2 span {
+    transform: translateY(-1.2em);
+}
+
+#bt2:hover .span-mother2 span {
+    transform: translateY(0);
+}
+
+#bt2 .span-mother2 span {
+    transition: 0.2s;
+}
+
+#bt2 .span-mother2 span:nth-child(2) {
+    transition: 0.3s;
+}
+
+#bt2 .span-mother2 span:nth-child(3) {
+    transition: 0.4s;
+}
+
+#bt2 .span-mother2 span:nth-child(4) {
+    transition: 0.5s;
+}
+
+#bt2 .span-mother2 span:nth-child(5) {
+    transition: 0.6s;
+}
+
+#bt2 .span-mother2 span:nth-child(6) {
+    transition: 0.7s;
+}
+#bt2 .span-mother2 span:nth-child(7) {
+    transition: 0.8s;
+}
+
+#bt3 {
+    font-weight: bold;
+    color: white;
+    border-radius: 2rem;
+    cursor: pointer;
+    width: 100.02px;
+    height: 50.66px;
+    border: none;
+    background-image: linear-gradient(to right top, #640016, #860030, #9d0061, #9600a9, #1600ff);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#bt3 .span-mother {
+    display: flex;
+    overflow: hidden;
+}
+
+#bt3:hover .span-mother {
+    position: absolute;
+}
+
+#bt3:hover .span-mother span {
+    transform: translateY(1.2em);
+}
+
+#bt3 .span-mother span:nth-child(1) {
+    transition: 0.2s;
+}
+
+#bt3 .span-mother span:nth-child(2) {
+    transition: 0.3s;
+}
+
+#bt3 .span-mother span:nth-child(3) {
+    transition: 0.4s;
+}
+
+#bt3 .span-mother span:nth-child(4) {
+    transition: 0.5s;
+}
+
+#bt3 .span-mother span:nth-child(5) {
+    transition: 0.6s;
+}
+
+#bt3 .span-mother span:nth-child(6) {
+    transition: 0.7s;
+}
+
+#bt3 .span-mother2 {
+    display: flex;
+    position: absolute;
+    overflow: hidden;
+}
+
+#bt3 .span-mother2 span {
+    transform: translateY(-1.2em);
+}
+
+#bt3:hover .span-mother2 span {
+    transform: translateY(0);
+}
+
+#bt3 .span-mother2 span {
+    transition: 0.2s;
+}
+
+#bt3 .span-mother2 span:nth-child(2) {
+    transition: 0.3s;
+}
+
+#bt3 .span-mother2 span:nth-child(3) {
+    transition: 0.4s;
+}
+
+#bt3 .span-mother2 span:nth-child(4) {
+    transition: 0.5s;
+}
+
+#bt3 .span-mother2 span:nth-child(5) {
+    transition: 0.6s;
+}
+
+#bt3 .span-mother2 span:nth-child(6) {
+    transition: 0.7s;
+}
+#bt4 {
+    font-weight: bold;
+    color: white;
+    border-radius: 2rem;
+    cursor: pointer;
+    width: 100.02px;
+    height: 50.66px;
+    border: none;
+    background-image: linear-gradient(to right top, #000000, #1e1e1e, #363636, #505050, #6b6b6b);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#bt4 .span-mother {
+    display: flex;
+    overflow: hidden;
+}
+
+#bt4:hover .span-mother {
+    position: absolute;
+}
+
+#bt4:hover .span-mother span {
+    transform: translateY(1.2em);
+}
+
+#bt4 .span-mother span:nth-child(1) {
+    transition: 0.2s;
+}
+
+#bt4 .span-mother span:nth-child(2) {
+    transition: 0.3s;
+}
+
+#bt4 .span-mother span:nth-child(3) {
+    transition: 0.4s;
+}
+
+#bt4 .span-mother span:nth-child(4) {
+    transition: 0.5s;
+}
+
+#bt4 .span-mother span:nth-child(5) {
+    transition: 0.6s;
+}
+
+#bt4 .span-mother span:nth-child(6) {
+    transition: 0.7s;
+}
+
+#bt4 .span-mother2 {
+    display: flex;
+    position: absolute;
+    overflow: hidden;
+}
+
+#bt4 .span-mother2 span {
+    transform: translateY(-1.2em);
+}
+
+#bt4:hover .span-mother2 span {
+    transform: translateY(0);
+}
+
+#bt4 .span-mother2 span {
+    transition: 0.2s;
+}
+
+#bt4 .span-mother2 span:nth-child(2) {
+    transition: 0.3s;
+}
+
+#bt4 .span-mother2 span:nth-child(3) {
+    transition: 0.4s;
+}
+
+#bt4 .span-mother2 span:nth-child(4) {
+    transition: 0.5s;
+}
+
+#bt4 .span-mother2 span:nth-child(5) {
+    transition: 0.6s;
+}
+
+#bt4 .span-mother2 span:nth-child(6) {
+    transition: 0.7s;
+}
+#bt5 {
+    font-weight: bold;
+    color: white;
+    border-radius: 2rem;
+    cursor: pointer;
+    width: 100.02px;
+    height: 50.66px;
+    border: none;
+    background-image: linear-gradient(to right top, #a30000, #c74d00, #e38400, #f6bb00, #fff300);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#bt5 .span-mother {
+    display: flex;
+    overflow: hidden;
+}
+
+#bt5:hover .span-mother {
+    position: absolute;
+}
+
+#bt5:hover .span-mother span {
+    transform: translateY(1.2em);
+}
+
+#bt5 .span-mother span:nth-child(1) {
+    transition: 0.2s;
+}
+
+#bt5 .span-mother span:nth-child(2) {
+    transition: 0.3s;
+}
+
+#bt5 .span-mother span:nth-child(3) {
+    transition: 0.4s;
+}
+
+#bt5 .span-mother span:nth-child(4) {
+    transition: 0.5s;
+}
+
+#bt5 .span-mother span:nth-child(5) {
+    transition: 0.6s;
+}
+
+#bt5 .span-mother span:nth-child(6) {
+    transition: 0.7s;
+}
+
+#bt5 .span-mother2 {
+    display: flex;
+    position: absolute;
+    overflow: hidden;
+}
+
+#bt5 .span-mother2 span {
+    transform: translateY(-1.2em);
+}
+
+#bt5:hover .span-mother2 span {
+    transform: translateY(0);
+}
+
+#bt5 .span-mother2 span {
+    transition: 0.2s;
+}
+
+#bt5 .span-mother2 span:nth-child(2) {
+    transition: 0.3s;
+}
+
+#bt5 .span-mother2 span:nth-child(3) {
+    transition: 0.4s;
+}
+
+#bt5 .span-mother2 span:nth-child(4) {
+    transition: 0.5s;
+}
+
+#bt5 .span-mother2 span:nth-child(5) {
+    transition: 0.6s;
+}
+
+#bt5 .span-mother2 span:nth-child(6) {
+    transition: 0.7s;
+}
+#bt6 {
+    font-weight: bold;
+    color: white;
+    border-radius: 2rem;
+    cursor: pointer;
+    width: 100.02px;
+    height: 50.66px;
+    border: none;
+    background-image: linear-gradient(to right top, #66183f, #ac333d, #d96c1c, #dfb300, #b0ff00);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#bt6 .span-mother {
+    display: flex;
+    overflow: hidden;
+}
+
+#bt6:hover .span-mother {
+    position: absolute;
+}
+
+#bt6:hover .span-mother span {
+    transform: translateY(1.2em);
+}
+
+#bt6 .span-mother span:nth-child(1) {
+    transition: 0.2s;
+}
+
+#bt6 .span-mother span:nth-child(2) {
+    transition: 0.3s;
+}
+
+#bt6 .span-mother span:nth-child(3) {
+    transition: 0.4s;
+}
+
+#bt6 .span-mother span:nth-child(4) {
+    transition: 0.5s;
+}
+
+#bt6 .span-mother span:nth-child(5) {
+    transition: 0.6s;
+}
+
+#bt6 .span-mother span:nth-child(6) {
+    transition: 0.7s;
+}
+
+#bt6 .span-mother2 {
+    display: flex;
+    position: absolute;
+    overflow: hidden;
+}
+
+#bt6 .span-mother2 span {
+    transform: translateY(-1.2em);
+}
+
+#bt6:hover .span-mother2 span {
+    transform: translateY(0);
+}
+
+#bt6 .span-mother2 span {
+    transition: 0.2s;
+}
+
+#bt6 .span-mother2 span:nth-child(2) {
+    transition: 0.3s;
+}
+
+#bt6 .span-mother2 span:nth-child(3) {
+    transition: 0.4s;
+}
+
+#bt6 .span-mother2 span:nth-child(4) {
+    transition: 0.5s;
+}
+
+#bt6 .span-mother2 span:nth-child(5) {
+    transition: 0.6s;
+}
+
+#bt6 .span-mother2 span:nth-child(6) {
+    transition: 0.7s;
+}
+#banner
+{
+    background-image: url("collage.jpg");
+    background-repeat: no-repeat;
+    align-content: center;
+
+    margin: 1px;
+
+}
+#framer
+{
+    height: 375px;
+    width: 570px;
+    float: right;
+
+}
+#framel
+{
+    height: 375px;
+    width: 570px;
+    float: left;
+}
+#subj {
+    color: #00f7ff;
+text-decoration: none;
+
+}
+#subj:hover
+{
+    color:indianred;
+}
+
+.socket {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 50%;
+    margin-left: -100px;
+    top: 50%;
+    margin-top: -100px;
+}
+
+.hex-brick {
+    background: #000000;
+    width: 30px;
+    height: 17px;
+    position: absolute;
+    top: 5px;
+    animation-name: fade00;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    -webkit-animation-name: fade00;
+    -webkit-animation-duration: 2s;
+    -webkit-animation-iteration-count: infinite;
+}
+
+.h2 {
+    transform: rotate(60deg);
+    -webkit-transform: rotate(60deg);
+}
+
+.h3 {
+    transform: rotate(-60deg);
+    -webkit-transform: rotate(-60deg);
+}
+
+.gel {
+    height: 30px;
+    width: 30px;
+    transition: all .3s;
+    -webkit-transition: all .3s;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.center-gel {
+    margin-left: -15px;
+    margin-top: -15px;
+    animation-name: pulse00;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    -webkit-animation-name: pulse00;
+    -webkit-animation-duration: 2s;
+    -webkit-animation-iteration-count: infinite;
+}
+
+.c1 {
+    margin-left: -47px;
+    margin-top: -15px;
+}
+
+.c2 {
+    margin-left: -31px;
+    margin-top: -43px;
+}
+
+.c3 {
+    margin-left: 1px;
+    margin-top: -43px;
+}
+
+.c4 {
+    margin-left: 17px;
+    margin-top: -15px;
+}
+
+.c5 {
+    margin-left: -31px;
+    margin-top: 13px;
+}
+
+.c6 {
+    margin-left: 1px;
+    margin-top: 13px;
+}
+
+.c7 {
+    margin-left: -63px;
+    margin-top: -43px;
+}
+
+.c8 {
+    margin-left: 33px;
+    margin-top: -43px;
+}
+
+.c9 {
+    margin-left: -15px;
+    margin-top: 41px;
+}
+
+.c10 {
+    margin-left: -63px;
+    margin-top: 13px;
+}
+
+.c11 {
+    margin-left: 33px;
+    margin-top: 13px;
+}
+
+.c12 {
+    margin-left: -15px;
+    margin-top: -71px;
+}
+
+.c13 {
+    margin-left: -47px;
+    margin-top: -71px;
+}
+
+.c14 {
+    margin-left: 17px;
+    margin-top: -71px;
+}
+
+.c15 {
+    margin-left: -47px;
+    margin-top: 41px;
+}
+
+.c16 {
+    margin-left: 17px;
+    margin-top: 41px;
+}
+
+.c17 {
+    margin-left: -79px;
+    margin-top: -15px;
+}
+
+.c18 {
+    margin-left: 49px;
+    margin-top: -15px;
+}
+
+.c19 {
+    margin-left: -63px;
+    margin-top: -99px;
+}
+
+.c20 {
+    margin-left: 33px;
+    margin-top: -99px;
+}
+
+.c21 {
+    margin-left: 1px;
+    margin-top: -99px;
+}
+
+.c22 {
+    margin-left: -31px;
+    margin-top: -99px;
+}
+
+.c23 {
+    margin-left: -63px;
+    margin-top: 69px;
+}
+
+.c24 {
+    margin-left: 33px;
+    margin-top: 69px;
+}
+
+.c25 {
+    margin-left: 1px;
+    margin-top: 69px;
+}
+
+.c26 {
+    margin-left: -31px;
+    margin-top: 69px;
+}
+
+.c27 {
+    margin-left: -79px;
+    margin-top: -15px;
+}
+
+.c28 {
+    margin-left: -95px;
+    margin-top: -43px;
+}
+
+.c29 {
+    margin-left: -95px;
+    margin-top: 13px;
+}
+
+.c30 {
+    margin-left: 49px;
+    margin-top: 41px;
+}
+
+.c31 {
+    margin-left: -79px;
+    margin-top: -71px;
+}
+
+.c32 {
+    margin-left: -111px;
+    margin-top: -15px;
+}
+
+.c33 {
+    margin-left: 65px;
+    margin-top: -43px;
+}
+
+.c34 {
+    margin-left: 65px;
+    margin-top: 13px;
+}
+
+.c35 {
+    margin-left: -79px;
+    margin-top: 41px;
+}
+
+.c36 {
+    margin-left: 49px;
+    margin-top: -71px;
+}
+
+.c37 {
+    margin-left: 81px;
+    margin-top: -15px;
+}
+
+.r1 {
+    animation-name: pulse00;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-delay: .2s;
+    -webkit-animation-name: pulse00;
+    -webkit-animation-duration: 2s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-delay: .2s;
+}
+
+.r2 {
+    animation-name: pulse00;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-delay: .4s;
+    -webkit-animation-name: pulse00;
+    -webkit-animation-duration: 2s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-delay: .4s;
+}
+
+.r3 {
+    animation-name: pulse00;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-delay: .6s;
+    -webkit-animation-name: pulse00;
+    -webkit-animation-duration: 2s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-delay: .6s;
+}
+
+.r1 > .hex-brick {
+    animation-name: fade00;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-delay: .2s;
+    -webkit-animation-name: fade00;
+    -webkit-animation-duration: 2s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-delay: .2s;
+}
+
+.r2 > .hex-brick {
+    animation-name: fade00;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-delay: .4s;
+    -webkit-animation-name: fade00;
+    -webkit-animation-duration: 2s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-delay: .4s;
+}
+
+.r3 > .hex-brick {
+    animation-name: fade00;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-delay: .6s;
+    -webkit-animation-name: fade00;
+    -webkit-animation-duration: 2s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-delay: .6s;
+}
+
+@keyframes pulse00 {
+    0% {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+    }
+
+    50% {
+        -webkit-transform: scale(0.01);
+        transform: scale(0.01);
+    }
+
+    100% {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+    }
+}
+
+@keyframes fade00 {
+    0% {
+        background: #252525;
+    }
+
+    50% {
+        background: #000000;
+    }
+
+    100% {
+        background: #353535;
+    }
+}

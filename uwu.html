@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en" id="uwu">
+<head>
+    <meta charset="UTF-8">
+    <title>UWU</title>
+    <link rel="stylesheet" href="uwu.1.css">
+    <style>
+        .additional-buttons {
+            display: none;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 1em;
+        }
+
+        .additional-buttons button {
+            margin-top: 0.5em;
+        }
+    </style>
+</head>
+
+<body>
+<audio controls autoplay style="display: none" onvolumechange="10">
+    <source src="suzume.mp3" type="audio/mpeg">
+</audio>
+<header>
+    <hr>
+    <h1 id="uu">UWU</h1>
+    <hr>
+</header>
+<div id="banner">
+<button id="buttong" onclick="toggleButtons()">
+        <span class="span-mother">
+            <span>G</span>
+            <span>E</span>
+            <span>N</span>
+            <span>R</span>
+            <span>E</span>
+
+        </span>
+    <span class="span-mother2">
+            <span>g</span>
+            <span>e</span>
+            <span>n</span>
+            <span>r</span>
+            <span>e</span>
+        </span>
+</button>
+
+<div class="additional-buttons" id="additionalButtons">
+    <button id="bt1" onclick="bt1()">
+  <span class="span-mother">
+    <span>A</span>
+    <span>C</span>
+    <span>T</span>
+    <span>I</span>
+    <span>O</span>
+    <span>N</span>
+  </span>
+        <span class="span-mother2">
+    <span>a</span>
+    <span>c</span>
+    <span>t</span>
+    <span>i</span>
+    <span>o</span>
+    <span>n</span>
+  </span>
+    </button>
+    <button id="bt2" onclick="bt2()">
+  <span class="span-mother">
+ <span>R</span> <span>O</span> <span>M</span> <span>A</span> <span>N</span> <span>C</span> <span>E</span>
+
+  </span>
+        <span class="span-mother2">
+          <span>r</span> <span>o</span> <span>m</span> <span>a </span> <span>n</span> <span>c</span> <span>e</span>
+  </span>
+    </button>
+    <button id="bt3" onclick="bt3()">
+  <span class="span-mother">
+    <span>S</span>
+    <span>C</span>
+    <span>I</span>
+    <span>-</span>
+    <span>F</span>
+    <span>I</span>
+  </span>
+        <span class="span-mother2">
+    <span>s</span>
+    <span>c</span>
+    <span>i</span>
+    <span>-</span>
+    <span>f</span>
+    <span>i</span>
+  </span>
+    </button>
+    <button id="bt4" onclick="bt4()">
+  <span class="span-mother">
+    <span>H</span>
+    <span>O</span>
+    <span>R</span>
+    <span>R</span>
+    <span>O</span>
+    <span>R</span>
+  </span>
+        <span class="span-mother2">
+     <span>h</span>
+     <span>o</span>
+     <span>r</span>
+     <span>r</span>
+     <span>o</span>
+     <span>r</span>
+  </span>
+    </button>
+    <button id="bt5" onclick="bt5()">
+  <span class="span-mother">
+    <span>M</span>
+    <span>Y</span>
+    <span>S</span>
+    <span>T</span>
+    <span>E</span>
+    <span>R</span>
+      <span>Y</span>
+  </span>
+        <span class="span-mother2">
+    <span>m</span>
+    <span>y</span>
+    <span>s</span>
+    <span>t</span>
+    <span>e</span>
+    <span>r</span>
+            <span>y</span>
+  </span>
+    </button>
+    <button id="bt6" onclick="bt6()">
+  <span class="span-mother">
+    <span>C</span>
+    <span>O</span>
+    <span>M</span>
+    <span>E</span>
+    <span>D</span>
+    <span>Y</span>
+  </span>
+        <span class="span-mother2">
+    <span>c</span>
+    <span>o</span>
+    <span>m</span>
+    <span>e</span>
+    <span>d</span>
+    <span>y</span>
+  </span>
+    </button>
+
+</div>
+</div>
+
+<script>
+    function toggleButtons() {
+        var additionalButtons = document.getElementById('additionalButtons');
+        if (additionalButtons.style.display === 'none' || additionalButtons.style.display === '') {
+            additionalButtons.style.display = 'flex';
+        } else {
+            additionalButtons.style.display = 'none';
+        }
+        console.log('Button clicked');
+    }
+    function bt1()
+    {
+        window.location.href='action.html';
+    }
+    function bt2()
+    {
+        window.location.href='romance.html';
+    } function bt3()
+    {
+        window.location.href='sci-fi.html';
+    } function bt4()
+    {
+        window.location.href='horror.html';
+    } function bt5()
+    {
+        window.location.href='mystery.html';
+    } function bt6()
+    {
+        window.location.href='comedy.html';
+    }
+</script>
+</body>
+</html>
